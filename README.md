@@ -1,4 +1,4 @@
-![logo](https://github.com/abidhasanstudent/blob/main/abi.gif)
+![logo](https://github.com/blob/main/abi.gif)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
